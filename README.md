@@ -1,6 +1,4 @@
 # MERNDashboard
- 
-# Node.js Project
 
 ## Description
 This is a Node.js project designed to [RBAC and Basic CURD Operations]. The project includes a variety of features and dependencies that enhance its functionality and ensure smooth operation.
