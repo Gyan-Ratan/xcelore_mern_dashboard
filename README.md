@@ -1,4 +1,4 @@
-# XceloreMERNDashboard
+# MERNDashboard
  
 # Node.js Project
 
@@ -10,10 +10,6 @@ This is a Node.js project designed to [RBAC and Basic CURD Operations]. The proj
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Scripts](#scripts)
-- [Dependencies](#dependencies)
-- [Development](#development)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 To get started with this project, follow these steps:
@@ -22,12 +18,15 @@ To get started with this project, follow these steps:
     ```bash
     git clone (https://github.com/Gyan-Ratan/xcelore_mern_dashboard.git
     ```
-2. Navigate to the project directory:
+2. Navigate to the project's Frontend directory:
     ```bash
-    cd backend // for the server 
-    cd frontend // for the frontend
+    cd frontend 
     ```
-3. Install the dependencies:
+3.  Navigate to the project's Backend directory:
+    ```bash
+    cd backend 
+    ```
+4. Install the dependencies:
     ```bash
     npm install
     ```
